@@ -1,6 +1,6 @@
 GitHub. HW_2
 
-
+https://github.com/krisrazumeiko/GIT_HW_2
 
 1. На локальном репозитории сделать ветки для:
 - Postman
